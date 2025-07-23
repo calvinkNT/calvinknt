@@ -1,4 +1,9 @@
-## Hi there 👋
+## hello, I'm calvin.
+
+I code stuff in various languages such as PHP, Objective-C, Python, HTML, and Node.js. I know a bit of everything, but I'm trying to improve.
+
+## what do you do?
+whatever interests me at the moment. I mainly write random stuff in PHP and also build legacy iOS apps.
 
 <!--
 **calvinknt/calvinknt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

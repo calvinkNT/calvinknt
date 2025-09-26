@@ -1,4 +1,4 @@
-half-awake human that haphazardly fabricates computer instructions
+I haphazardly fabricate computer instructions
 
 <p>
   <picture><img src="https://img.shields.io/badge/Discord-%40calvinknt-blue?style=flat&logo=discord&logoColor=white"></picture>

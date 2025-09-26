@@ -1,9 +1,9 @@
-## hello! 
+I'm alright at coding.
 
-I'm Calvin. I code stuff in various languages such as PHP, Objective-C, Python, HTML, and Node.js. I know a bit of everything, but I'm trying to improve.
-
-## what do you do?
-whatever interests me at the moment. I'm currently trying to learn how to write tweaks for legacy iOS, and learning more about developing iOS apps.
+![Static Badge](https://img.shields.io/badge/Discord-%40calvinknt-blue?style=flat&logo=discord&logoColor=white)
+![Static Badge](https://img.shields.io/badge/YouTube-%40calvinkNT-red?style=flat&logo=youtube&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Codeforces-calvink19-aqua?style=flat&logo=codeforces&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Web-https://calvink19.co-white?style=flat&logo=&logoColor=white)
 
 <!--
 **calvinknt/calvinknt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

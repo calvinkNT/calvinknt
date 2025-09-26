@@ -1,5 +1,3 @@
-I'm alright at coding.
-
 ![Static Badge](https://img.shields.io/badge/Discord-%40calvinknt-blue?style=flat&logo=discord&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/YouTube-%40calvinkNT-red?style=flat&logo=youtube&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Codeforces-calvink19-aqua?style=flat&logo=codeforces&logoColor=white)

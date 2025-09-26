@@ -1,5 +1,5 @@
 <p>
-  <a href=#><img src="https://img.shields.io/badge/Discord-%40calvinknt-blue?style=flat&logo=discord&logoColor=white"></a>
+  <a href=# style="pointer:default;"><img src="https://img.shields.io/badge/Discord-%40calvinknt-blue?style=flat&logo=discord&logoColor=white"></a>
   <a href="https://youtube.com/@calvinkNT" target="_blank"><img src="https://img.shields.io/badge/YouTube-%40calvinkNT-red?style=flat&logo=youtube&logoColor=white"></a>
   <a href="https://codeforces.com/profile/calvink19" target="_blank"><img src="https://img.shields.io/badge/Codeforces-calvink19-aqua?style=flat&logo=codeforces&logoColor=white"></a>
   <a href="https://calvink19.co" target="_blank"><img src="https://img.shields.io/badge/Web-https://calvink19.co-white?style=flat&logo=&logoColor=white"></a>
